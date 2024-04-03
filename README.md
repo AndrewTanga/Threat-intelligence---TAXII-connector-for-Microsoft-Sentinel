@@ -1,0 +1,1 @@
+# Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel
